@@ -20,10 +20,8 @@ The goal is to evaluate whether incorporating qualitative sentiment data and pro
 ```bash
 ML703-Project/
 │
-├── data/                    # Raw and processed datasets (S&P 500, sentiment, VIX)
-├── notebooks/               # Jupyter notebooks for exploratory analysis and modeling
-├── models/                  # Implementation of ARIMA, LSTM, regression, and Bayesian models
-├── results/                 # Output tables and plots for evaluation
-├── utils/                   # Helper functions (e.g. sentiment scoring, preprocessing)
+├── Datasets/                 # Raw and processed datasets (S&P 500, sentiment, VIX)
+├── Bayesian Time Series Forecasting/    # Implementation 
+├── Baselines/                  # Implementation               # Helper functions (e.g. sentiment scoring, preprocessing)
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation (you are here)
