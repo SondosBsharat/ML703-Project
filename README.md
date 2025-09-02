@@ -1,6 +1,6 @@
 # LLM-Augmented Bayesian Time Series Forecasting:Integrating Market Sentiment and Volatility Shifts
 
-This repository contains the code, datasets, and results for our ML703 final project, which investigates the integration of sentiment analysis, volatility indicators, and Bayesian change-point detection into financial time series forecasting.
+This repository contains the code, datasets, and results for our project, which investigates the integration of sentiment analysis, volatility indicators, and Bayesian change-point detection into financial time series forecasting.
 
 ## 🌐 Project Summary
 
